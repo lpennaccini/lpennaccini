@@ -1,0 +1,86 @@
+# MonitorIT - .gitignore
+# Creato il: 23 settembre 2025
+
+# Database SQLite (contiene dati sensibili)
+*.db
+*.sqlite
+*.sqlite3
+test_data/
+data/
+logs/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Runtime files
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Dependency directories
+web-dashboard/node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell transcript files
+PowerShell_transcript.*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# IDE/Editor files
+.vscode/settings.json
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Build outputs
+dist/
+build/
+
+# Backup files
+*.bak
+*.backup

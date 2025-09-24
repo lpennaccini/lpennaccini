@@ -1,0 +1,22 @@
+﻿
+
+CollectionDate : 2025-09-23 21:36:38
+ComputerName   : LAPTOP-TI3V86UT
+UserName       : luigi
+Domain         : LAPTOP-TI3V86UT
+IPAddress      : 192.168.1.190
+MACAddress     : 36:4B:50:B7:EF:DA
+OSName         : Microsoft Windows 11 Home
+OSVersion      : 10.0.26100
+OSArchitecture : 64 bit
+Manufacturer   : HP
+Model          : HP Laptop 15s-fq3xxx
+SystemType     : x64-based PC
+TotalRAM_GB    : 3,71
+SerialNumber   : 5CD415467T
+Disks          : {@{Drive=C:; Label=Windows; TotalSize_GB=117,96; FreeSpace_GB=32,42; UsedSpace_GB=85,54; 
+                 PercentUsed=72,5; FileSystem=NTFS}}
+
+
+
+
